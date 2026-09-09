@@ -1,2 +1,2 @@
-Trigger Netlify deploy after repository relink.
-2026-09-09 13:12 Asia/Taipei
+Trigger Netlify deploy after Active builds confirmed.
+2026-09-09 13:49 Asia/Taipei
