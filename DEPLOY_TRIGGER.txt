@@ -1,2 +1,2 @@
-Trigger Netlify deploy after Active builds confirmed.
-2026-09-09 13:49 Asia/Taipei
+Trigger Netlify deploy after repository link confirmed.
+2026-09-09 13:51 Asia/Taipei
