@@ -1,2 +1,2 @@
-Trigger Netlify deploy after team-count and per-team-size update.
-2026-09-09 13:11 Asia/Taipei
+Trigger Netlify deploy after repository relink.
+2026-09-09 13:12 Asia/Taipei
